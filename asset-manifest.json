@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nayana62/todo-app.git/static/css/main.3c885042.css",
+    "main.js": "/Nayana62/todo-app.git/static/js/main.4e4fd32b.js",
+    "static/js/787.2843ca88.chunk.js": "/Nayana62/todo-app.git/static/js/787.2843ca88.chunk.js",
+    "index.html": "/Nayana62/todo-app.git/index.html",
+    "main.3c885042.css.map": "/Nayana62/todo-app.git/static/css/main.3c885042.css.map",
+    "main.4e4fd32b.js.map": "/Nayana62/todo-app.git/static/js/main.4e4fd32b.js.map",
+    "787.2843ca88.chunk.js.map": "/Nayana62/todo-app.git/static/js/787.2843ca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c885042.css",
+    "static/js/main.4e4fd32b.js"
+  ]
+}
